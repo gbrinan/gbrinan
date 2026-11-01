@@ -11,7 +11,7 @@ AI로 일하는 방식을 바꾸는 사람입니다. 기업과 개인이 AI 에�
 | 프로젝트 | 한 줄 |
 |---|---|
 | [AXTYPE](https://github.com/gbrinan/AXTYPE) | AI 시대 일하는 방식을 다섯 동물로 알아보는 10문항 테스트 · [바로 해보기](https://axtype.vercel.app) |
-| [soloforce2](https://github.com/gbrinan/soloforce2) | 대화하고 기억하고 전문 에이전트 팀에 일을 맡기는 개인 AI 비서 |
+| soloforce2 (비공개) | 대화하고 기억하고 전문 에이전트 팀에 일을 맡기는 개인 AI 비서 |
 | [ingestiger](https://github.com/gbrinan/ingestiger) | 많은 문서를 기업·프로젝트별 LLM Wiki로 정리하는 에이전트 스킬 |
 | [skillmergeagent](https://github.com/gbrinan/skillmergeagent) | 팀원들이 각자 만든 스킬을 하나의 워크플로우로 엮는 에이전트 스킬 |
 | [leafpad-web](https://github.com/gbrinan/leafpad-web) | 탭과 자동 저장이 되는 브라우저 마크다운 노트 · [바로 쓰기](https://gbrinan.github.io/leafpad-web/) |
